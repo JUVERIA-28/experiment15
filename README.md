@@ -16,4 +16,4 @@ JavaScript
 OpenWeatherMap API
 
 GitHub Repo:
-🔗 https://github.com/yourusername/project15-django-weather
+🔗 https://github.com/JUVERIA-28/experiment15.git
